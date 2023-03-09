@@ -1,0 +1,9 @@
+body {
+  background-color: #ccc;
+  height: 100vh;
+}
+
+.input-color {
+  padding: 0;
+  width: 20px;
+}
