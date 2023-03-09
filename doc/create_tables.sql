@@ -60,7 +60,7 @@ VALUES ('Taches Ménagères'),
        ('Animaux'),
        ('Procrastilist');
 
-INSERT INTO "card" ("title", "color", "list_id")
+INSERT INTO "card" ("content", "color", "list_id")
 VALUES ('Faire pousser un bonzaï', '#0000FF', 1),
        ('Passer master sur Apex Legends', '#FFFFFF', 2),
        ('Trouver un prénom pour le chat', '#008000', 3),
