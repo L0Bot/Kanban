@@ -732,7 +732,7 @@
   // (par exemple, l'url de l'API)
   
   const utils = {
-      base_url: "https://l0bot-server.eddi.cloud/"
+      base_url: "https://l0bot-server.eddi.cloud"
   };
   
   module.exports = utils;
